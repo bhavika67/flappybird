@@ -8,6 +8,7 @@ This project is a simple implementation of the **Flappy Bird** game developed us
 - Generating and animating obstacles.
 - Collision detection.
 - Maintaining a running score.
+ 
 ![Screenshot 2024-12-22 215721](https://github.com/user-attachments/assets/85744b30-a648-4759-bc22-9a18ac38310e)
 
 ---
